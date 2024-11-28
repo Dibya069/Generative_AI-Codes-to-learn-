@@ -1,0 +1,11 @@
+langchain
+langchain-community
+llama-index
+sentence_transformers
+torch
+pypdf
+qdrant-client
+
+langchain_groq
+groq
+streamlit
